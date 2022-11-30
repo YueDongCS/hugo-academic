@@ -1,10 +1,11 @@
 ---
 title: "PhD Thesis"
+subtitle: "Thesis Title: Text Summarization beyond Seq2Seq Models for Salience, Faithfulness, and Factuality"
 date: 2022-11-28T00:00:00Z
 draft: false
+
 summary: "Text Summarization beyond Seq2Seq Models for Salience, Faithfulness, and Factuality"
 authors: ["McGill University, Defense Date: November 28nd, 2022, Mode: Hybrid"]
-authors: ["Thesis Title: Text Summarization beyond Seq2Seq Models for Salience, Faithfulness, and Factuality"]
 tags: ["phd-thesis"]
 categories: []
 
