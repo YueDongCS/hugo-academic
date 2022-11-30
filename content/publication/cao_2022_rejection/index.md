@@ -32,19 +32,7 @@ projects: []
 publishDate: '2022-07-18T23:57:59.485338Z'
 publication_types:
 - '1'
-abstract: 'A possible explanation for the impressive performance of masked language
-  model (MLM) pre-training is that such models have learned to represent the syntactic
-  structures prevalent in classical NLP pipelines. In this paper, we propose a different
-  explanation: MLMs succeed on downstream tasks almost entirely due to their ability
-  to model higher-order word co-occurrence statistics. To demonstrate this, we pre-train
-  MLMs on sentences with randomly shuffled word order, and show that these models
-  still achieve high accuracy after fine-tuning on many downstream tasks -- including
-  on tasks specifically designed to be challenging for models that ignore word order.
-  Our models perform surprisingly well according to some parametric syntactic probes,
-  indicating possible deficiencies in how we test representations for syntactic information.
-  Overall, our results show that purely distributional information largely explains
-  the success of pre-training, and underscore the importance of curating challenging
-  evaluation datasets that require deeper linguistic knowledge.'
+abstract: 'State-of-the-art abstractive summarization systems often generate hallucinations; i.e., content that is not directly inferable from the source text. Despite being assumed to be incorrect, we find that much hallucinated content is actually consistent with world knowledge, which we call factual hallucinations. Including these factual hallucinations in a summary can be beneficial because they provide useful background information. In this work, we propose a novel detection approach that separates factual from non-factual hallucinations of entities. Our method is based on an entity’s prior and posterior probabilities according to pre-trained and finetuned masked language models, respectively. Empirical results suggest that our method vastly outperforms two baselines in both accuracy and F1 scores and has a strong correlation with human judgments on factuality classification tasks.Furthermore, we use our method as a reward signal to train a summarization system using an off-line reinforcement learning (RL) algorithm that can significantly improve the factuality of generated summaries while maintaining the level of abstractiveness.'
 publication: '*Proceedings of the 60th Annual Meeting of the Association for Computational Linguistics (ACL)*'
 links:
 - name: Arxiv
