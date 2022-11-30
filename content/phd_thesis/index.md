@@ -62,11 +62,11 @@ My PhD thesis was successfully defended on November 28th, 2022. It was a privile
 
 ## Thesis Committee {#thesis-committee}
 
--   Dr. Mathieu Blanchette (Chair)
--   Dr. Jackie Cheung (Supervisor)
--   Dr. Joelle Pineau (Internal Examiner)
--   Dr. Hsiu-Chin Lin (Internal Member)
--   Dr. Ido Dagan (BIU) (External Examiner)
+-   Dr. [Mathieu Blanchette](https://www.cs.mcgill.ca/~blanchem/) (Chair)
+-   Dr. [Jackie Cheung](https://www.cs.mcgill.ca/~jcheung/) (Supervisor)
+-   Dr. [Joelle Pineau](https://www.cs.mcgill.ca/~jpineau/) (Internal Examiner)
+-   Dr. [Hsiu-Chin Lin](https://sites.google.com/site/hsiuchinlin/) (Internal Member)
+-   Dr. [Ido Dagan (BIU)](https://u.cs.biu.ac.il/~dagani/) (External Examiner)
 
 
 ## Thesis Document {#thesis-document}
