@@ -1,17 +1,13 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: 'Masked Language Modeling and the Distributional Hypothesis: Order Word Matters
-  Pre-training for Little'
+title: 'Hallucinated but Factual! Inspecting the Factuality of Hallucinations in Abstractive Summarization'
 subtitle: ''
 summary: ''
 authors:
-- Koustuv Sinha
-- Robin Jia
-- Dieuwke Hupkes
-- Joelle Pineau
-- Adina Williams
-- Douwe Kiela
+- Meng Cao
+- Yue Dong
+- Jackie Cheung
 tags: []
 categories: []
 date: '2021-07-01'
@@ -49,12 +45,12 @@ abstract: 'A possible explanation for the impressive performance of masked langu
   Overall, our results show that purely distributional information largely explains
   the success of pre-training, and underscore the importance of curating challenging
   evaluation datasets that require deeper linguistic knowledge.'
-publication: '*Empirical Methods of Natural Language Processing (EMNLP)*'
+publication: '*Proceedings of the 60th Annual Meeting of the Association for Computational Linguistics (ACL)*'
 links:
 - name: Arxiv
-  url: https://arxiv.org/abs/2104.06644
+  url: https://arxiv.org/abs/2204.13761
 - name: ACL Anthology
-  url: https://aclanthology.org/2021.emnlp-main.230/
+  url: https://aclanthology.org/2022.acl-long.236/
 - name: Code
-  url: https://github.com/pytorch/fairseq/tree/master/examples/shuffled_word_order
+  url: https://github.com/mcao516/rej-summ
 ---
