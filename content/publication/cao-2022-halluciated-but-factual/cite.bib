@@ -1,23 +1,15 @@
-@misc{sharma2021evaluating,
- abstract = {Gender-bias stereotypes have recently raised significant
-ethical concerns in natural language processing. However,
-progress in the detection and evaluation of gender-bias in
-natural language understanding through inference is limited
-and requires further investigation. In this work, we propose
-an evaluation methodology to measure these biases by
-constructing a probe task that involves pairing a
-gender-neutral premise against a gender-specific hypothesis.
-We use our probe task to investigate state-of-the-art NLI
-models on the presence of gender stereotypes using
-occupations. Our findings suggest that three models (BERT,
-RoBERTa, and BART) trained on MNLI and SNLI data-sets are
-significantly prone to gender-induced prediction errors. We
-also find that debiasing techniques such as augmenting the
-training dataset to ensure that it is a gender-balanced
-dataset can help reduce such bias in certain cases.},
- author = {Sharma, Shanya and Dey, Manan and Sinha, Koustuv},
- title = {Evaluating Gender Bias in Natural Language Inference },
- url = {https://openreview.net/forum?id=bnuU0PzXl0-},
- year = {2021}
+@inproceedings{cao-etal-2022-hallucinated,
+    title = "Hallucinated but Factual! Inspecting the Factuality of Hallucinations in Abstractive Summarization",
+    author = "Cao, Meng  and
+      Dong, Yue  and
+      Cheung, Jackie",
+    booktitle = "Proceedings of the 60th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)",
+    month = may,
+    year = "2022",
+    address = "Dublin, Ireland",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2022.acl-long.236",
+    doi = "10.18653/v1/2022.acl-long.236",
+    pages = "3340--3354",
+    abstract = "State-of-the-art abstractive summarization systems often generate hallucinations; i.e., content that is not directly inferable from the source text. Despite being assumed to be incorrect, we find that much hallucinated content is actually consistent with world knowledge, which we call factual hallucinations. Including these factual hallucinations in a summary can be beneficial because they provide useful background information. In this work, we propose a novel detection approach that separates factual from non-factual hallucinations of entities. Our method is based on an entity{'}s prior and posterior probabilities according to pre-trained and finetuned masked language models, respectively. Empirical results suggest that our method vastly outperforms two baselines in both accuracy and F1 scores and has a strong correlation with human judgments on factuality classification tasks.Furthermore, we use our method as a reward signal to train a summarization system using an off-line reinforcement learning (RL) algorithm that can significantly improve the factuality of generated summaries while maintaining the level of abstractiveness.",
 }
-
