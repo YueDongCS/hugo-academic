@@ -16,7 +16,7 @@ content:
   autolink: true
 
   # Contact details (edit or remove options as required)
-  email: yue.dong@ucr.edu
+  email: yue.dong[at]ucr.edu
   phone: 
   address:
     street:
