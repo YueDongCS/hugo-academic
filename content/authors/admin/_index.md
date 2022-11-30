@@ -1,8 +1,9 @@
 ---
 title: Yue Dong
 role: Assistant Professor
-bio: My research interests include natural language processing, machine
-  learning, and artificial intelligence.
+# Short bio (displayed in user profile at end of posts)
+bio: Yue Dong is an assistant professor of computer science and engineering at the University of California Riverside. Her research interests include natural language processing, machine learning, and artificial intelligence. She leads the Natural Language Processing group, which develops natural language understanding and generation systems that are controllable, trustworthy, and efficient. 
+
 interests:
   - Machine learning
   - Natural language processing
@@ -66,6 +67,4 @@ My research interests include natural language processing, machine learning, and
 
 {{< icon name="cv" pack="ai" >}} {{< staticref "uploads/cv.pdf" "newtab" >}}Resumé{{< /staticref >}} | {{< icon name="graduation-cap" pack="fas" >}} {{< staticref "phd_thesis/" "newtab" >}} PhD Thesis {{< /staticref >}}
 
-# Yue Dong is an assistant professor of computer science and engineering at the University of California Riverside. Her research interests include natural language processing, machine learning, and artificial intelligence. She leads the Natural Language Processing group, which develops natural language understanding and generation systems that are controllable, trustworthy, and efficient. 
-# Her current primary research interests are text summarization and conditional text generation.
 {style="text-align: justify;"}
