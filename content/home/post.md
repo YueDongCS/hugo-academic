@@ -2,7 +2,7 @@
 widget: Pages
 widget_id: publications
 headless: true
-weight: 30
+weight: 120
 active: true
 design:
   columns: "2"
