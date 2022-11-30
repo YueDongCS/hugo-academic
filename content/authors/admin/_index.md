@@ -41,7 +41,7 @@ education:
       year: 2016
     - course: Clinical Medicine
       institution: Xi'an Jiaotong University (西安交通大学)
-      year: 2013
+      year: 2009
 superuser: true
 status:
   icon: ☕️
