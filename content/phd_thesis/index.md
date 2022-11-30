@@ -89,7 +89,7 @@ What an incredible committee I have!
 Getting the news that I had "passed" was a surreal experience!
 
 {{< figure src="/phd_defense/phd_defense_friends_snap.JPG" >}}
-Having many friends witnessed my PhD defense was a fantastic!
+Having many friends witnessed my PhD defense was fantastic!
 
 {{< figure src="/phd_defense/phd_defense_girl_friends.JPG" >}}
 I couldn't have been happier with my best girlfriends from the RL lab!
