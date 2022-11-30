@@ -36,12 +36,9 @@ education:
     - course: "PhD in Computer Science "
       institution: "McGill University "
       year: 2022
-    - course: MSc in Mathematics
+    - course: MSc & BSc in Mathematics
       institution: University of Ottawa
       year: 2016
-    - course: BSc in Mathematics
-      institution: University of Ottawa
-      year: 2014
     - course: Clinical Medicine
       institution: Xi'an Jiaotong University (西安交通大学)
       year: 2013
