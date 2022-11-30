@@ -30,7 +30,7 @@ image:
 projects: []
 publishDate: '2022-07-18T23:57:59.485338Z'
 publication_types:
-- '2'
+- '1'
 abstract: 'Most existing model-based approaches to anomaly detection in streaming data are based on decision trees due to their fast construction speed [1]. This paper proposes two fast anomaly detectors based on ensembles of neural networks for evolving data streams. One model is a supervised online learning algorithm involving an ensemble of threaded multilayer perceptrons (MLP). The other model is a one-class learning algorithm with an ensemble of threaded autoencoders. The latter model only requires data from the positive class for training and is accurate even when anomalous training data are rare. The models feature an ensemble of multilayer perceptrons or autoencoders from multi-threads which evolve with data streams. Using multi-threads makes the methods highly efficient because both methods process data streams in parallel. Our analysis shows that both methods in streaming data have constant small time complexity and constant memory requirement. When compared with Very Fast Decision Trees (VFDT), a state-of-the-art algorithm, our methods performed favorably in terms of detection accuracy and training time for the datasets under consideration.'
 publication: '*Canadian conference on artificial intelligence*'
 links:
