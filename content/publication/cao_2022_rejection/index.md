@@ -1,16 +1,17 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: 'Hallucinated but Factual! Inspecting the Factuality of Hallucinations in Abstractive Summarization'
+title: 'Learning with Rejection for Abstractive Text Summarization'
 subtitle: ''
 summary: ''
 authors:
 - Meng Cao
 - Yue Dong
+- Jingyi He
 - Jackie Cheung
 tags: []
 categories: []
-date: '2022-04-01'
+date: '2022-04-02'
 lastmod: 2022-07-18T19:57:59-04:00
 featured: false
 draft: false
@@ -33,12 +34,12 @@ publishDate: '2022-07-18T23:57:59.485338Z'
 publication_types:
 - '1'
 abstract: 'State-of-the-art abstractive summarization systems often generate hallucinations; i.e., content that is not directly inferable from the source text. Despite being assumed to be incorrect, we find that much hallucinated content is actually consistent with world knowledge, which we call factual hallucinations. Including these factual hallucinations in a summary can be beneficial because they provide useful background information. In this work, we propose a novel detection approach that separates factual from non-factual hallucinations of entities. Our method is based on an entity’s prior and posterior probabilities according to pre-trained and finetuned masked language models, respectively. Empirical results suggest that our method vastly outperforms two baselines in both accuracy and F1 scores and has a strong correlation with human judgments on factuality classification tasks.Furthermore, we use our method as a reward signal to train a summarization system using an off-line reinforcement learning (RL) algorithm that can significantly improve the factuality of generated summaries while maintaining the level of abstractiveness.'
-publication: '*Proceedings of the 60th Annual Meeting of the Association for Computational Linguistics (ACL)*'
+publication: '*Empirical Methods of Natural Language Processing (EMNLP)*'
 links:
 - name: Arxiv
-  url: https://arxiv.org/abs/2204.13761
+  url: 
 - name: ACL Anthology
-  url: https://aclanthology.org/2022.acl-long.236/
+  url: 
 - name: Code
   url: https://github.com/mcao516/rej-summ
 ---
