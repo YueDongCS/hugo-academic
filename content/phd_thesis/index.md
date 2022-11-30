@@ -49,14 +49,15 @@ slides: ""
 <div class="heading">Table of Contents</div>
 
 - [Thesis Committee](#thesis-committee)
-- [Thesis Title &amp Abstract](#thesis-title)
+- [Thesis Title](#thesis-title)
+- [Abstract](#abstract)
 - [Thesis Document](#thesis-document)
 - [Pictures](#pictures)
 
 </div>
 <!--endtoc-->
 
-On November 28nd, 2022 I defended my PhD thesis successfully in front of a virtual audience. Following are the details of the thesis, committee, and a sincere acknowledgement to all of whom who have influenced, encouraged, helped and supported me throughout this epic journey!
+My PhD thesis was successfully defended on November 28th, 2022. It was a privilege to defend my PhD in front of a phenomenal committee and incredible family, friends, and colleagues.
 
 
 ## Thesis Committee {#thesis-committee}
@@ -68,9 +69,12 @@ On November 28nd, 2022 I defended my PhD thesis successfully in front of a virtu
 -   Dr. Ido Dagan (BIU) (External Examiner)
 
 
-## Thesis Title &amp Abstract {#thesis-title}
+## Thesis Title {#thesis-title}
 
 "Text Summarization beyond Seq2Seq Models for Salience, Faithfulness, and Factuality"
+
+
+## Abstract {#abstract}
 
 Text summarization aims to condense long texts into a summary while keeping the salient information. A good summary should, in principle, include critical information, be faithful to the source, and be consistent with world knowledge. This thesis investigates and improves existing modeling in order to achieve the above desirable properties of summarization models. As evidenced by our research, simply adapting existing standard seq2seq methods into summarization may not be sufficient to satisfy task-specific requirements, and scaling with larger models and more data will only alleviate the problems rather than resolve them. This observation shows a need to include inductive biases in modeling that take advantage of the specific characteristics of text summarization, mainly beyond seq2seq settings. Using this insight, I propose novel non-autoregressive models that can process combinations of sentences in arbitrary order for global salience estimation. I then design text-editing models that naturally bound the output generation by editing distances for faithful generation. Finally, I show that incorporating explicit neural symbolic reasoning can improve the factuality of system-generated summaries, again addressing the necessity of designing models beyond the standard seq2seq setup to satisfy task-specific summarization requirements. 
 
@@ -83,14 +87,15 @@ _(To be updated post publication from McGill)_
 
 
 ## Pictures {#pictures}
-It was a privilege to defend my PhD in front of a phenomenal committee and incredible family, friends, and colleagues.
 
 {{< figure src="/phd_defense/phd_defense_committee_in_person_snap.JPG" >}}
 
 {{< figure src="/phd_defense/phd_defense_committee_virtual_snap.png" >}}
+What an incredible committee I have!
 
 {{< figure src="/phd_defense/phd_defense_friends_snap.JPG" >}}
 
 {{< figure src="/phd_defense/phd_defense_girl_friends.JPG" >}}
 
 {{< figure src="/phd_defense/phd_defense_celebration.JPG" >}}
+Celebration after defense
