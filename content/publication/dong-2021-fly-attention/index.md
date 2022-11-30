@@ -37,7 +37,7 @@ publishDate: '2022-07-18T23:57:59.485338Z'
 publication_types:
 - '1'
 abstract: 'Despite considerable advancements with deep neural language models (LMs), neural text generation still suffers from degeneration: the generated text is repetitive, generic, self-contradictory, and often lacks commonsense. Our analyses on sentence-level attention patterns in LMs reveal that neural degeneration may be associated with insufficient learning of task-specific characteristics by the attention mechanism. This finding motivates on-the-fly attention modulation – a simple but effective method that enables the injection of priors into attention computation during inference. Automatic and human evaluation results on three text generation benchmarks demonstrate that attention modulation helps LMs generate text with enhanced fluency, creativity, and commonsense reasoning, in addition to significantly reduce sentence-level repetition.'
-publication: '*Findings of the Association for Computational Linguistics(Findings of ACL)*'
+publication: '*Findings of the Association for Computational Linguistics (Findings of ACL)*'
 links:
 - name: Arxiv
   url: https://arxiv.org/pdf/2101.00371.pdf
