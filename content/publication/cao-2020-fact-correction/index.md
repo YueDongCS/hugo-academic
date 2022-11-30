@@ -42,4 +42,6 @@ links:
   url: https://aclanthology.org/2020.emnlp-main.506/
 - name: Code
   url: https://github.com/mcao516/Factual-Error-Correction
+- name: Video
+  url: https://slideslive.com/38939120/factual-error-correction-for-abstractive-summarization-models
 ---

@@ -43,4 +43,6 @@ links:
   url: https://arxiv.org/abs/2010.02443
 - name: ACL Anthology
   url: https://aclanthology.org/2020.emnlp-main.749/
+- name: Video
+  url: https://slideslive.com/38939056/multifact-correction-in-abstractive-text-summarization
 ---

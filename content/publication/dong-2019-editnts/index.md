@@ -42,4 +42,6 @@ links:
   url: https://aclanthology.org/P19-1331/
 - name: Code
   url: https://github.com/YueDongCS/EditNTS
+- name: Video
+  url: https://vimeo.com/384771870
 ---
