@@ -35,7 +35,7 @@ publishDate: '2022-07-18T23:57:59.485338Z'
 publication_types:
 - '1'
 abstract: 'We present two architectures for multi-task learning with neural sequence models. Our approach allows the relationships between different tasks to be learned dynamically, rather than using an ad-hoc pre-defined structure as in previous work. We adopt the idea from message-passing graph neural networks, and propose a general graph multi-task learning framework in which different tasks can communicate with each other in an effective and interpretable way. We conduct extensive experiments in text classification and sequence labelling to evaluate our approach on multi-task learning and transfer learning. The empirical results show that our models not only outperform competitive baselines, but also learn interpretable and transferable patterns across tasks.'
-publication: '* AAAI Conference on Artificial Intelligence (AAAI)*'
+publication: '*AAAI Conference on Artificial Intelligence (AAAI)*'
 links:
 - name: paper
   url: https://ojs.aaai.org/index.php/AAAI/article/view/4346
