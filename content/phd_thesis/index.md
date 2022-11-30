@@ -49,7 +49,6 @@ slides: ""
 
 <div class="heading">Table of Contents</div>
 
-- [Thesis Title](#thesis-title)
 - [Thesis Committee](#thesis-committee)
 - [Thesis Document](#thesis-document)
 - [Pictures](#pictures)
@@ -59,10 +58,6 @@ slides: ""
 
 My PhD thesis was successfully defended on November 28th, 2022. It was a privilege to defend my PhD in front of a phenomenal committee and incredible family, friends, and colleagues.
 
-
-## Thesis Title {#thesis-title}
-
-"Text Summarization beyond Seq2Seq Models for Salience, Faithfulness, and Factuality"
 
 
 ## Thesis Committee {#thesis-committee}
