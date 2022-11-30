@@ -65,6 +65,6 @@ Hi, I am Yue Dong, an assistant professor of computer science and engineering at
 
 My research interests include natural language processing, machine learning, and artificial intelligence. I lead the Natural Language Processing group at UCR, which develops natural language understanding and generation systems that are controllable, trustworthy, and efficient.  I am looking for self-motivated PhDs / masters / interns to work in the area of NLP, please consider [applying](https://www1.cs.ucr.edu//graduate/admissions/overview) if you are interested in working with me.
 
-{{< icon name="cv" pack="ai" >}} {{< staticref "uploads/cv.pdf" "newtab" >}}Resumé{{< /staticref >}} | {{< icon name="graduation-cap" pack="fas" >}} {{< staticref "phd_thesis/" "newtab" >}} PhD Thesis {{< /staticref >}}
+{{< icon name="cv" pack="ai" >}} {{< staticref "uploads/cv.pdf" "newtab" >}}cv{{< /staticref >}} | {{< icon name="graduation-cap" pack="fas" >}} {{< staticref "phd_thesis/" "newtab" >}} PhD Thesis {{< /staticref >}}
 
 {style="text-align: justify;"}
