@@ -83,13 +83,16 @@ _(To be updated post publication from McGill)_
 ## Pictures {#pictures}
 
 {{< figure src="/phd_defense/phd_defense_committee_in_person_snap.JPG" >}}
-
-{{< figure src="/phd_defense/phd_defense_committee_virtual_snap.png" >}}
 What an incredible committee I have!
 
+{{< figure src="/phd_defense/phd_defense_committee_virtual_snap.png" >}}
+Getting the news that I had "passed" was a surreal experience!
+
 {{< figure src="/phd_defense/phd_defense_friends_snap.JPG" >}}
+Having many friends and colleagues witnessed my PhD defense was a fantastic!
 
 {{< figure src="/phd_defense/phd_defense_girl_friends.JPG" >}}
+My best girlfriends from the RL lab attended my defense, and I couldn't have been happier!
 
 {{< figure src="/phd_defense/phd_defense_celebration.JPG" >}}
-Celebration after defense
+The celebration after the defense; can you spot my lovely mom?
