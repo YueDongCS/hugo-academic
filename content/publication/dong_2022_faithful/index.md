@@ -1,49 +1,60 @@
-{\rtf1\ansi\ansicpg1252\cocoartf2578
-\cocoatextscaling0\cocoaplatform0{\fonttbl\f0\fswiss\fcharset0 Helvetica;}
-{\colortbl;\red255\green255\blue255;}
-{\*\expandedcolortbl;;}
-\margl1440\margr1440\vieww31160\viewh19780\viewkind0
-\pard\tx566\tx1133\tx1700\tx2267\tx2834\tx3401\tx3968\tx4535\tx5102\tx5669\tx6236\tx6803\pardirnatural\partightenfactor0
+---
+# Documentation: https://wowchemy.com/docs/managing-content/
 
-\f0\fs24 \cf0 ---\
-# Documentation: https://wowchemy.com/docs/managing-content/\
-\
-title: 'Faithful to the Document or to the World? Mitigating Hallucinations via Entity-Linked Knowledge in Abstractive Summarization'\
-subtitle: ''\
-summary: ''\
-authors:\
-- Yue Dong\
-- John Wieting\
-- Pat Verga\
-tags: []\
-categories: []\
-date: '2021-07-01'\
-lastmod: 2022-07-18T19:57:59-04:00\
-featured: false\
-draft: false\
-\
-# Featured image\
-# To use, add an image named `featured.jpg/png` to your page's folder.\
-# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.\
-image:\
-  caption: ''\
-  focal_point: ''\
-  preview_only: false\
-\
-# Projects (optional).\
-#   Associate this post with one or more of your projects.\
-#   Simply enter your project's folder or file name without extension.\
-#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.\
-#   Otherwise, set `projects = []`.\
-projects: []\
-publishDate: '2022-07-18T23:57:59.485338Z'\
-publication_types: 2\
-abstract: 'Despite recent advances in abstractive summarization, current summarization systems still suffer from content hallucinations where models generate text that is either irrelevant or contradictory to the source document. However, prior work has been predicated on the assumption that any generated facts not appearing explicitly in the source are undesired hallucinations. Methods have been proposed to address this scenario by ultimately improving `faithfulness' to the source document, but in reality, there is a large portion of entities in the gold reference targets that are not directly in the source. In this work, we show that these entities are not aberrations, but they instead require utilizing external world knowledge to infer reasoning paths from entities in the source. We show that by utilizing an external knowledge base, we can improve the faithfulness of summaries without simply making them more extractive, and additionally, we show that external knowledge bases linked from the source can benefit the factuality of generated summaries.'\
-publication: '*Findings of Empirical Methods of Natural Language Processing (Findings of EMNLP)*'\
-links:\
-- name: Arxiv\
-  url: https://arxiv.org/abs/2204.13761\
-- name: ACL Anthology\
-  url: \
----\
-}
+title: 'Masked Language Modeling and the Distributional Hypothesis: Order Word Matters
+  Pre-training for Little'
+subtitle: ''
+summary: ''
+authors:
+- Koustuv Sinha
+- Robin Jia
+- Dieuwke Hupkes
+- Joelle Pineau
+- Adina Williams
+- Douwe Kiela
+tags: []
+categories: []
+date: '2021-07-01'
+lastmod: 2022-07-18T19:57:59-04:00
+featured: false
+draft: false
+
+# Featured image
+# To use, add an image named `featured.jpg/png` to your page's folder.
+# Focal points: Smart, Center, TopLeft, Top, TopRight, Left, Right, BottomLeft, Bottom, BottomRight.
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: false
+
+# Projects (optional).
+#   Associate this post with one or more of your projects.
+#   Simply enter your project's folder or file name without extension.
+#   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
+#   Otherwise, set `projects = []`.
+projects: []
+publishDate: '2022-07-18T23:57:59.485338Z'
+publication_types:
+- '1'
+abstract: 'A possible explanation for the impressive performance of masked language
+  model (MLM) pre-training is that such models have learned to represent the syntactic
+  structures prevalent in classical NLP pipelines. In this paper, we propose a different
+  explanation: MLMs succeed on downstream tasks almost entirely due to their ability
+  to model higher-order word co-occurrence statistics. To demonstrate this, we pre-train
+  MLMs on sentences with randomly shuffled word order, and show that these models
+  still achieve high accuracy after fine-tuning on many downstream tasks -- including
+  on tasks specifically designed to be challenging for models that ignore word order.
+  Our models perform surprisingly well according to some parametric syntactic probes,
+  indicating possible deficiencies in how we test representations for syntactic information.
+  Overall, our results show that purely distributional information largely explains
+  the success of pre-training, and underscore the importance of curating challenging
+  evaluation datasets that require deeper linguistic knowledge.'
+publication: '*Empirical Methods of Natural Language Processing (EMNLP)*'
+links:
+- name: Arxiv
+  url: https://arxiv.org/abs/2104.06644
+- name: ACL Anthology
+  url: https://aclanthology.org/2021.emnlp-main.230/
+- name: Code
+  url: https://github.com/pytorch/fairseq/tree/master/examples/shuffled_word_order
+---
