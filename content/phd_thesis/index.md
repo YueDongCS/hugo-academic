@@ -66,7 +66,7 @@ My PhD thesis was successfully defended on November 28th, 2022. It was a privile
 -   Dr. [Jackie Cheung](https://www.cs.mcgill.ca/~jcheung/) (Supervisor)
 -   Dr. [Joelle Pineau](https://www.cs.mcgill.ca/~jpineau/) (Internal Examiner)
 -   Dr. [Hsiu-Chin Lin](https://sites.google.com/site/hsiuchinlin/) (Internal Member)
--   Dr. [Ido Dagan (BIU)](https://u.cs.biu.ac.il/~dagani/) (External Examiner)
+-   Dr. [Ido Dagan](https://u.cs.biu.ac.il/~dagani/) (External Examiner, BIU)
 
 
 ## Thesis Document {#thesis-document}
