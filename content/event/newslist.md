@@ -2,7 +2,8 @@
 draft = false
 +++
 
--   [11/22] Successfully defended my PhD! Checkout [my thesis here](/phd_thesis/).
+-   [12/2022] The 4th workshop on ["New Frontiers in Summarization Workshop"](https://newsumm.github.io/2023/) has been accepted to EMNLP 2023.
+-   [11/2022] Successfully defended my PhD! Checkout [my thesis here](/phd_thesis/).
 -   [10/2022] Our paper ["Faithful to the Document or to the World? Mitigating Hallucinations via Entity-Linked Knowledge in Abstractive Summarization"](https://arxiv.org/abs/2204.13761) has been accepted to the findings of EMNLP 2022.
 -   [10/2022] Our paper "Learning with Rejection for Abstractive Text Summarization" has been accepted to EMNLP 2022.
 -   [07/2022] Our workshop on ["Efficient Natural Language and Speech Processing (ENLSP-II): The Future of Pre-trained Models"](https://neurips2022-enlsp.github.io/) has been accepted to NeurIPS 2022.
